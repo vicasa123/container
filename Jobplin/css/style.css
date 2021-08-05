@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{width: 100%;}
+.inner{width: 1144px;}
+
+header{height: 100px; background-color:#EDFCFF ;}
+
+.logo{float: left;}
+.nav{float: left;}
+.left_nav{float: left;}
+.left_nav>ul>li{float: left;}
+.right_nav>ul>li{float: left;}
